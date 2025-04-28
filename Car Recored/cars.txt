@@ -1,0 +1,5 @@
+1 honda civic 2002 red 1400 70000 
+2 ford torus 2005 white 1800 60000 
+3 honda accord 2001 black 1600 60000 
+4 kia forte 2001 blue 1800 45000 
+5 kia sorato 2001 silver 1600 42000
